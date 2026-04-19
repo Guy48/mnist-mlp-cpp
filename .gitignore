@@ -1,0 +1,8 @@
+build/
+*.o
+*.exe
+*.out
+*.ilk
+*.pdb
+*.log
+.DS_Store
