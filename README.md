@@ -82,4 +82,3 @@ python tools/plot_img.py images/<image_file>
 
 - The network architecture is fixed and defined in `include/MlpNetwork.h`.
 - The parameter and image files are not human-readable text files; they are binary blobs written directly from floating-point arrays.
-- If you add your own data files, keep them outside the source tree or document their format clearly in the repository.
